@@ -1,0 +1,6 @@
+framework module Pods_CovidSenti_CovidSentiUITests {
+  umbrella header "Pods-CovidSenti-CovidSentiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

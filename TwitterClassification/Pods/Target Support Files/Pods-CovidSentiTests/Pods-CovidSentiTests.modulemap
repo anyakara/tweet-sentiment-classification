@@ -1,0 +1,6 @@
+framework module Pods_CovidSentiTests {
+  umbrella header "Pods-CovidSentiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
